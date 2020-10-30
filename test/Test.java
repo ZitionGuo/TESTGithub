@@ -8,4 +8,8 @@ public class Test {
     public void test1() {
         System.out.println("添加测试方法");
     }
+
+    public void test2(){
+
+    }
 }
